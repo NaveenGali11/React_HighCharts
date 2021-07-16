@@ -1,0 +1,2 @@
+(this["webpackJsonptask1-highcharts"]=this["webpackJsonptask1-highcharts"]||[]).push([[8],{67:function(a,s,c){"use strict";c.r(s);c(0);var e=c(1);s.default=function(){return Object(e.jsx)("nav",{className:"d-md-flex d-block flex-row mx-md-auto mx-0 navbar-dark bg-dark",children:Object(e.jsx)("div",{className:"container-fluid",children:Object(e.jsx)("a",{className:"navbar-brand",href:"/",children:"Task 1"})})})}}}]);
+//# sourceMappingURL=8.5f668d63.chunk.js.map

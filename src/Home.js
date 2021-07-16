@@ -10,7 +10,6 @@ const Home = () => (
       <Row style={{ display: 'flex', justifyContent: 'center' }}>
         <Paper
           variant="outlined"
-          elevation="10"
           square
           className="col-lg-4"
           style={{
